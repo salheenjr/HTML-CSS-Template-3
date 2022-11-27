@@ -1,0 +1,45 @@
+                        <ul class="mega-menu">
+                            <div class="image">
+                                <img src="image/pngwing.com.png" alt="">
+                            </div>
+                            <li>
+                                <i class="fa-regular fa-comments"></i>
+                                <a href="">Testimonials</a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-user"></i>
+                                <a href="">Team Members</a>
+                            </li>
+                            <li>
+                                <i class="fa-regular fa-building"></i>
+                                <a href="">Services</a>
+                            </li>
+                            <li>
+                                <i class="fa-regular fa-circle-check"></i>
+                                <a href="">Our Skils</a>
+                            </li>
+                            <li>
+                                <i class="fa-brands fa-creative-commons-nd"></i>
+                                <a href="">How It Works</a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-calendar-days"></i>
+                                <a href="">Events</a>
+                            </li>
+                            <li>
+                                <i class="fa-brands fa-product-hunt"></i>
+                                <a href="">Pricing Plans</a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-circle-play"></i>
+                                <a href="">Top Videos</a>
+                            </li>
+                            <li>
+                                <i class="fa-sharp fa-solid fa-chart-bar"></i>
+                                <a href="">Stats</a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-percent"></i>
+                                <a href="">Request A Discount</a>
+                            </li>
+                        </ul>
